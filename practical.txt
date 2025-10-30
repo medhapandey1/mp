@@ -1,0 +1,51 @@
+<HTML>
+<HEAD>
+</HEAD>
+<title>time table</title>
+<body><center>
+<caption>time table for cse21<caption>
+<table border="2">
+<tr>
+<th>period</th>
+<th>1</th>
+<th>2</th>
+<th rowspan="4">lunch</th>
+<th>3</th></tr>
+ 
+<tr>
+<td>timing</td>
+<td>8:50-9:40</td>
+<td>9:40-10:30</td>
+<td>11:30-12:20</td></tr>
+
+<tr>
+<td>monday</td>
+<td colspan="2">DSA LAB
+<table>
+<tr>
+<th>G1</th>
+<th>G2</th></tr>
+<tr>
+<td>101 rj</td>
+<td>102 rj</td></tr></table></td>
+<td>mathematics</td></tr>
+<tr>
+<td>tuesday</td>
+<td colspan="2">electronics lab
+<table><tr>
+<th>G1<th>
+<th>G2<th>
+</tr>
+<tr>
+<td>105 bh<td>
+<td> 106 bh<td></tr></table></td>
+<td>mechanical</td></table>
+<pre> name= medha pandey
+2025b01010759</pre>
+</center>
+</BODY>
+</HTML> 
+
+
+
+
